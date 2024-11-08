@@ -22,13 +22,15 @@ body{
 .iconContainer{
     display:flex;
     justify-content: space-between;
-    
 }
-.btnContainer{
    
 }
 .sidebar{
     height: 100%;
+}
+.sidebar:hover{
+    cursor:pointer;
+
 }
 .mtvLogin{
     width:250px;
@@ -40,6 +42,7 @@ body{
     color:black;
     font-family: helvetica;
     margin-left:65%;
+    cursor: pointer;
 }
 .mtv{
     object-fit: cover;
