@@ -1,0 +1,48 @@
+body{
+    background-image: url(https://images.paramount.tech/uri/mgid:arc:imageassetref:mtv.com:d2906a58-a278-499a-af13-93a44e50f404?format=webp);
+    background-size: cover;
+}
+
+.navbar{
+    display:flex;
+    height: 35px;
+    
+}
+.imageContainer{
+    height: 44px;
+    margin: 1em;
+}
+.episodeContainer{
+    height: 44px;
+    margin: 1em;
+    margin-top: 650px;
+    padding: 10px;
+    
+}
+.iconContainer{
+    display:flex;
+    justify-content: space-between;
+    
+}
+.btnContainer{
+   
+}
+.sidebar{
+    height: 100%;
+}
+.mtvLogin{
+    width:250px;
+    height: 35px;
+    font-size:14px;
+    font-weight: bold;
+    border-radius:5px;
+    background-color: yellow;
+    color:black;
+    font-family: helvetica;
+    margin-left:65%;
+}
+.mtv{
+    object-fit: cover;
+    height: 650px;
+    width: 650px;
+}
