@@ -98,7 +98,10 @@ body{
     cursor: pointer;
     position: absolute;
     right: 75px;
-    margin-top: 450px
+    margin-top: 375px
+}
+.btn2:hover{
+    background-color: hsl(60, 100%, 40%);
 }
 .text4{
     color: white;
